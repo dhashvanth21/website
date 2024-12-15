@@ -266,7 +266,16 @@ admin.html
         <a href="menu.html">Reservations</a>
         <a href="order.html">Orders</a>
     </nav>
-
+    <div><center>
+        <img src="suriya.webp" alt="">
+        <img src="rithik.png" alt="">
+        <img src="srk.avif" alt="">
+        </center></div>
+        <div><center>
+        <img src="vj deva.jpg" alt="">
+        <img src="Indian-actor-Amitabh-Bachchan-2013.webp" alt="">
+        <img src="rajini.jpg" alt=""></center>
+    </div>
 </body>
 </html>
 
@@ -507,7 +516,7 @@ order.html
 ```
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/442e97dc-0048-4868-984a-239717ebe94d)
-![image](https://github.com/user-attachments/assets/824e9e52-5a41-4c13-a745-d0dbde8333f8)
+![image](https://github.com/user-attachments/assets/5d52b5ac-4412-4328-a630-803354bf52f2)
 ![image](https://github.com/user-attachments/assets/75f12ee8-96bc-4275-93a0-1c6880036aa7)
 ![image](https://github.com/user-attachments/assets/622da643-64f9-4542-b9ee-d18e944d0673)
 ![image](https://github.com/user-attachments/assets/45b09de3-6f5c-4f95-afb4-fa34e5e89a02)
